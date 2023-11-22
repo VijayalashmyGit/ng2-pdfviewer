@@ -1,0 +1,70 @@
+D:\vs-develop\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.deps.json
+D:\vs-develop\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.runtimeconfig.json
+D:\vs-develop\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.dll
+D:\vs-develop\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\ref\VassaSpraket-TW.Data.dll
+D:\vs-develop\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.pdb
+D:\vs-develop\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.csproj.AssemblyReference.cache
+D:\vs-develop\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs-develop\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.AssemblyInfoInputs.cache
+D:\vs-develop\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.AssemblyInfo.cs
+D:\vs-develop\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.csproj.CoreCompileInputs.cache
+D:\vs-develop\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.dll
+D:\vs-develop\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\ref\VassaSpraket-TW.Data.dll
+D:\vs-develop\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.pdb
+D:\vs-develop\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.genruntimeconfig.cache
+D:\VS-Develop-Testing\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.deps.json
+D:\VS-Develop-Testing\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.runtimeconfig.json
+D:\VS-Develop-Testing\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.dll
+D:\VS-Develop-Testing\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\ref\VassaSpraket-TW.Data.dll
+D:\VS-Develop-Testing\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.pdb
+D:\VS-Develop-Testing\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.csproj.AssemblyReference.cache
+D:\VS-Develop-Testing\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Develop-Testing\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.AssemblyInfoInputs.cache
+D:\VS-Develop-Testing\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.AssemblyInfo.cs
+D:\VS-Develop-Testing\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.csproj.CoreCompileInputs.cache
+D:\VS-Develop-Testing\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.dll
+D:\VS-Develop-Testing\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\ref\VassaSpraket-TW.Data.dll
+D:\VS-Develop-Testing\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.pdb
+D:\VS-Develop-Testing\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.genruntimeconfig.cache
+D:\26 04 - Platform\Vassa\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.deps.json
+D:\26 04 - Platform\Vassa\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.runtimeconfig.json
+D:\26 04 - Platform\Vassa\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.dll
+D:\26 04 - Platform\Vassa\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.pdb
+D:\26 04 - Platform\Vassa\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.csproj.AssemblyReference.cache
+D:\26 04 - Platform\Vassa\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\26 04 - Platform\Vassa\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.AssemblyInfoInputs.cache
+D:\26 04 - Platform\Vassa\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.AssemblyInfo.cs
+D:\26 04 - Platform\Vassa\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.csproj.CoreCompileInputs.cache
+D:\26 04 - Platform\Vassa\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.dll
+D:\26 04 - Platform\Vassa\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\refint\VassaSpraket-TW.Data.dll
+D:\26 04 - Platform\Vassa\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.pdb
+D:\26 04 - Platform\Vassa\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.genruntimeconfig.cache
+D:\26 04 - Platform\Vassa\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\ref\VassaSpraket-TW.Data.dll
+D:\18-11-23\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.deps.json
+D:\18-11-23\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.runtimeconfig.json
+D:\18-11-23\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.dll
+D:\18-11-23\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\ref\VassaSpraket-TW.Data.dll
+D:\18-11-23\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.pdb
+D:\18-11-23\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.csproj.AssemblyReference.cache
+D:\18-11-23\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\18-11-23\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.AssemblyInfoInputs.cache
+D:\18-11-23\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.AssemblyInfo.cs
+D:\18-11-23\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.csproj.CoreCompileInputs.cache
+D:\18-11-23\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.dll
+D:\18-11-23\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\ref\VassaSpraket-TW.Data.dll
+D:\18-11-23\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.pdb
+D:\18-11-23\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.genruntimeconfig.cache
+D:\Develop_branch\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.deps.json
+D:\Develop_branch\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.runtimeconfig.json
+D:\Develop_branch\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.dll
+D:\Develop_branch\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\ref\VassaSpraket-TW.Data.dll
+D:\Develop_branch\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\bin\Debug\net6.0\VassaSpraket-TW.Data.pdb
+D:\Develop_branch\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.csproj.AssemblyReference.cache
+D:\Develop_branch\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop_branch\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.AssemblyInfoInputs.cache
+D:\Develop_branch\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.AssemblyInfo.cs
+D:\Develop_branch\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.csproj.CoreCompileInputs.cache
+D:\Develop_branch\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.dll
+D:\Develop_branch\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\ref\VassaSpraket-TW.Data.dll
+D:\Develop_branch\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.pdb
+D:\Develop_branch\VassaSpraket-TeachersWeb\VassaSpraket-TW.Data\obj\Debug\net6.0\VassaSpraket-TW.Data.genruntimeconfig.cache
